@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Mail\ContactMail;
 use App\Contact;
+use App\Subscribe;
 use Illuminate\Support\Facades\Mail;
 
 class ContactController extends Controller
@@ -19,13 +20,14 @@ class ContactController extends Controller
 
     public function sendContact(Request $request)
     {
-        $this->contact->create($request->all());
-
-        Mail::to($request->email)->send(new ContactMail($request));
-    }
-
-    public function subscribe(Request $email)
-    {
+        try{
+            // $this->contact->create($request->all());
+            Mail::to(env('APP_EMAIL', 'glavieirastudio@gmail.com'))->send(new ContactMail($request));    
+        }catch(\Exception $e){
+            return $e->getMessage();
+        }
         
     }
+
+    
 }

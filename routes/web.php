@@ -22,4 +22,4 @@ Route::get('/contact', function () {
 });
 
 Route::post('/contact', 'ContactController@sendContact');
-Route::post('/subscribe', 'SubscribeController@store');
+Route::post('/subscribe', 'SubscribeController@subscribe');

@@ -1,11 +1,21 @@
 @component('mail::message')
-Voce recebeu uma menssagem.
 
-The body of your message.
+Olá Glavieira, 
 
-@component('mail::button', ['url' => ''])
-Button Text
-@endcomponent
+Você recebeu um contato de {{ $name }}
+
+Assunto : {{ $subject }}
+
+Mensagem:
+
+{{ $message }}
+
+-------------
+Contato:
+
+Email: {{ $email }} <br>
+Telefone: {{ $number }}
+
 
 Thanks,<br>
 {{ config('app.name') }}

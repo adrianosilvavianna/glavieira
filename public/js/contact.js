@@ -61,7 +61,7 @@ $(document).ready(function(){
                     data: $(form).serialize(),
                     url:"/contact",
                     success: function() {
-                        $('#contactForm :input').attr('disabled', 'disabled');
+                        $('#contactForm')[0].reset();
                         $('#contactForm').fadeTo( "slow", 1, function() {
                             $(this).find('label').css('cursor','default');  
                             swal({
@@ -69,21 +69,83 @@ $(document).ready(function(){
                                 text: "Entraremos em contato o quanto antes!",
                                 icon: "success",
                               });
-                              $(this).find(':input').attr('value') == '';
+                              
                         })
                     },
                     error: function() {
                         $('#contactForm').fadeTo( "slow", 1, function() {
                             swal({
-                                title: "Good job!",
-                                text: "You clicked the button!",
-                                icon: "danger",
+                                title: "Ops algo está errado",
+                                text: "Infelizmente, não conseguimos registrar suas informações tente novamente!",
+                                icon: "error",
                               });
+                              
                         })
                     }
                 })
             }
         })
+
+
+        $('#subscribeForm').validate({
+            rules: {
+                number: {
+                    required: true,
+                    minlength: 5
+                },
+                email: {
+                    required: true,
+                    email: true
+                },
+                message: {
+                    required: true,
+                    minlength: 10
+                }
+            },
+            messages: {  
+                number: {
+                    required: "Coloca aí seu telefone pra gente poder falar com você",
+                    minlength: "Digita seu número por favor!"
+                },
+                email: {
+                    required: "Seu e-mail por favor!",
+                    email: "Tem certeza de que seu e-mail está correto?"
+                }
+            },
+            submitHandler: function(form) {
+                $(form).ajaxSubmit({
+                    type:"POST",
+                    data: $(form).serialize(),
+                    url:"/subscribe",
+                    success: function() {
+                        $('#subscribeForm')[0].reset();
+                        $('#subscribeForm').fadeTo( "slow", 1, function() {
+                            $(this).find('label').css('cursor','default');  
+                            swal({
+                                title: "Obrigado!",
+                                text: "Entraremos em contato o quanto antes!",
+                                icon: "success",
+                              });
+                              
+                        })
+                    },
+                    error: function() {
+                        $('#subscribeForm').fadeTo( "slow", 1, function() {
+                            swal({
+                                title: "Ops algo está errado",
+                                text: "Infelizmente, não conseguimos registrar suas informações tente novamente!",
+                                icon: "error",
+                              });
+                              
+                        })
+                    }
+                })
+            }
+        })
+
+
+
+
     })
         
  })(jQuery)

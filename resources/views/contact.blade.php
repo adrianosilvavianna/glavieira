@@ -73,7 +73,7 @@
             <div class="row">
               <div class="col-12">
                 <div class="form-group">
-                    <textarea class="form-control w-100" name="message" id="message" cols="30" rows="9" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Escreva sua mensagem'" placeholder = 'Escreva sua menssagem'></textarea>
+                    <textarea class="form-control w-100" name="message" id="message" cols="30" rows="9" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Escreva sua mensagem'" placeholder = 'Escreva sua mensagem'></textarea>
                 </div>
               </div>
               <div class="col-sm-6" style="margin-top: 20px;">
@@ -93,12 +93,12 @@
               </div>
               <div class="col-sm-6">
                 <div class="form-group">
-                  <input class="form-control" name="number" id="number" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Seu telefone'" placeholder = 'Seu telefone'>
+                  <input class="form-control" name="number" id="number" type="number" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Seu telefone'" placeholder = 'Seu telefone  (Só numeros)'>
                 </div>
               </div>
             </div>
             <div class="form-group mt-3">
-              <button type="submit" class="button button-contactForm btn_4 boxed-btn">Enviar</button>
+              <button type="submit" id="btn_contact"class="button button-contactForm btn_4 boxed-btn">Enviar</button>
             </div>
           </form>
         </div>

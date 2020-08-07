@@ -105,7 +105,8 @@
                                         Serviços
                                     </h3>
                                 <div class="subscribe-from">
-                                    <form action="/subscribe" method="post">
+                                    <form id="subscribeForm" action="/subscribe" method="post">
+                                            <input type="text" name="_token" id="_token" value="{{ csrf_token() }}" hidden>
                                             <input type="text" name="email" placeholder="Digite seu e-mail">
                                             <input type="text" name="number" placeholder="(DDD) 9999-99999">
                                             <button type="submit" >Enviar</button>
