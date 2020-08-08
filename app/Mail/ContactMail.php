@@ -39,7 +39,6 @@ class ContactMail extends Mailable
                         'subject' => $this->request->subject,
                         'message'=> $this->request->message,
                         'number' => $this->request->number,
-                        'slot' => 'Agradecemos seu contato'
                     ]
                 );
     }

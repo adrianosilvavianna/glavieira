@@ -141,11 +141,22 @@
                                         Entre Em Contato
                                 </h3>
                             <ul>
-                                <li><a href="#">glavieirastudio@gmail.com
-                                    </a></li>
-                                <li><a href="#">+55 (041) 995558643
-                                    </a></li>
-                                <li><a href="#">Brasil - Curitiba - PR</a></li>
+                                <li>
+                                    <a href="#">
+                                        glavieirastudio@gmail.com
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        +55 (041) 99555-8643
+                                        +55 (041) 99702-0390
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.google.com.br/maps/place/Curitiba+-+PR/@-25.4956847,-49.4273678,11z/data=!3m1!4b1!4m5!3m4!1s0x94dce3f5fc090ff1:0x3c7a83b0092bb747!8m2!3d-25.4808762!4d-49.3044253">
+                                        Brasil - Curitiba - PR
+                                    </a>
+                                </li>
                             </ul>
                             <div class="">
                                 <div class="social_icon ">

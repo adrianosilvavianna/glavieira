@@ -6,9 +6,7 @@ Você recebeu um contato de {{ $name }}
 
 Assunto : {{ $subject }}
 
-Mensagem:
-
-{{ $message }}
+Mensagem: {{ $message }}
 
 -------------
 Contato:
