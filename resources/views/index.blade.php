@@ -53,11 +53,11 @@
                                                 </div>
                                     </div>
                                 </div>
-                                <div class="col-xl-3 col-md-3">
+                                {{-- <div class="col-xl-3 col-md-3">
                                     <div class="music_btn">
                                         <a target="_black" href="https://sl.onerpm.com/8501569399?_ga=2.265704205.381027215.1596384096-770625695.1590939926" class="genric-btn warning radius">Salve na sua Playlist</a>
                                     </div>
-                                </div>
+                                </div> --}}
                     </div>
                 </div>
 
@@ -85,7 +85,7 @@
                                 
                                 O Glavieira é um projeto que surgiu do sonho em comum de um casal que ama música e quer levar isso adiante.<br/> 
                                 A proposta conta com a Voz de Giovana Pereira e harmonia de Adriano Vianna produtor e multi-instrumentista. <br/> 
-                                Com influências que vão de Jazz a MPB o Glavieira traz uma experiência única repleta de uma serena sinceridade. 
+                                Com influências que vão de Jazz a MPB, o Glavieira traz uma experiência única repleta de uma serena sinceridade. 
                                 Seus versos são coesos com sua vivência, pensamentos ou simplesmente com o que vislumbra em sua própria existência.
                             </p>
                             {{-- <div class="signature">
@@ -102,7 +102,7 @@
                             <p style="margin-bottom: 4%">
                                 O Glavieira é um projeto que surgiu do sonho em comum de um casal que ama música e quer levar isso adiante.<br/> 
                                 A proposta conta com a Voz de Giovana Pereira e harmonia de Adriano Vianna produtor e multi-instrumentista. <br/> 
-                                Com influências que vão de Jazz a MPB o Glavieira traz uma experiência única repleta de uma serena sinceridade. 
+                                Com influências que vão de Jazz a MPB, o Glavieira traz uma experiência única repleta de uma serena sinceridade. 
                                 Seus versos são coesos com sua vivência, pensamentos ou simplesmente com o que vislumbra em sua própria existência.
                             </p>
                             {{-- <div class="signature">
@@ -138,11 +138,11 @@
                                                     </div>
                                         </div>
                                     </div>
-                                    <div class="col-xl-3 col-md-3">
+                                    {{-- <div class="col-xl-3 col-md-3">
                                         <div class="music_btn">
                                             <a target="_black" href="https://sl.onerpm.com/8501569399?_ga=2.265704205.381027215.1596384096-770625695.1590939926" class="genric-btn warning radius">Salve na sua Playlist</a>
                                         </div>
-                                    </div>
+                                    </div> --}}
                         </div>
                     </div>
     
@@ -306,7 +306,7 @@
                                 </h3>
                                 
                                 <p class="sample-text" style="margin: 30px">
-                                    Caso queira realizar o pagamento via Boleto Bancário, entre em <a href="/contact">Contato</a> com a gente o valor da doação.    
+                                    Caso queira realizar o pagamento via Boleto Bancário, entre em <a href="/contact">Contato</a> com a gente e informe o valor da doação.    
                                 </p>
                                 
                             </div>

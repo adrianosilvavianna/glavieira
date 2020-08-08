@@ -2,10 +2,30 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-174961856-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-174961856-1');
+    </script>
+
+
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    
     <title>Glavieira</title>
-    <meta name="description" content="">
+
+    <meta name="description" content="Glavieira Studio, site feito por Adriano Vianna e Giovana Pereira para mostrar nosso trabalho musical.">
+    <meta name="google" content="nositelinkssearchbox" />
+    <meta name="robots" content="Glavieira, Studio, Giovana, Pereira, Adriano, Vianna, Jazz, Soul, Brasil Song, Sintonia, cover, Mpb, voz e violao, homestudio, musica Curitibana, Curitiba, Brasil, Gla, eira">
+    <meta name="googlebot" content="all">
+    <meta name="google" content="nositelinkssearchbox" />
+    <meta name="google" content="notranslate" />
+
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}" />
 
@@ -108,7 +128,7 @@
                                     <form id="subscribeForm" action="/subscribe" method="post">
                                             <input type="text" name="_token" id="_token" value="{{ csrf_token() }}" hidden>
                                             <input type="text" name="email" placeholder="Digite seu e-mail">
-                                            <input type="text" name="number" placeholder="(DDD) 9999-99999">
+                                            <input type="number" name="number" placeholder="9999-99999">
                                             <button type="submit" >Enviar</button>
                                         </form>
                                 </div>
