@@ -116,7 +116,9 @@
         </div>
     </div>
 
-    @mobile
+    @desktop
+
+    @elsedesktop
         <div class="music_area" style="background-color: #000">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
@@ -149,7 +151,7 @@
                 </div>
             </div>
         </div>
-        @endmobile
+        @enddesktop
 
     <div class="about_area">
         <div class="container">
