@@ -31,7 +31,7 @@ class SubscribeFast extends Mailable
     public function build()
     {
         return $this
-            ->from($this->request->email)
+            ->from('contato@glavieira.com.br')
             ->subject('Contato Rápido')
             ->markdown('emails.subscribe_fast', [
                 'email' => $this->request->email,
