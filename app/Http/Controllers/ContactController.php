@@ -21,8 +21,8 @@ class ContactController extends Controller
     public function sendContact(Request $request)
     {
         try{
-            // $this->contact->create($request->all());
-            Mail::to(env('APP_EMAIL', 'glavieirastudio@gmail.com'))->send(new ContactMail($request));    
+            $this->contact->create($request->all());
+            Mail::to(env('MAIL_FROM_ADDRESS', 'glavieirastudio@gmail.com'))->send(new ContactMail($request));    
         }catch(\Exception $e){
             return $e->getMessage();
         }
