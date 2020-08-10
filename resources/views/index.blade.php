@@ -467,7 +467,7 @@
                                     <div id="dados_IC">
                                         <p>
                                             Banco: Caixa Econômica Federal <br/>
-                                            Conta: 00115694  <br/>
+                                            Conta: 00115694-2  <br/>
                                             Ag: 0783 <br/>
                                             Operação: 013 <br/>
                                             Nome: Adriano Silva Vianna <br/>
