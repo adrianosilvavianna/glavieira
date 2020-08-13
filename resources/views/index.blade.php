@@ -53,11 +53,11 @@
                                                 </div>
                                     </div>
                                 </div>
-                                {{-- <div class="col-xl-3 col-md-3">
+                                <div class="col-xl-3 col-md-3">
                                     <div class="music_btn">
-                                        <a target="_black" href="https://sl.onerpm.com/8501569399?_ga=2.265704205.381027215.1596384096-770625695.1590939926" class="genric-btn warning radius">Salve na sua Playlist</a>
+                                        <a target="_black" href="https://sl.onerpm.com/5209095522?_ga=2.39774051.1164708396.1597097860-770625695.1590939926" class="genric-btn warning radius">Salve na sua Playlist</a>
                                     </div>
-                                </div> --}}
+                                </div>
                     </div>
                 </div>
 
@@ -140,11 +140,11 @@
                                                     </div>
                                         </div>
                                     </div>
-                                    {{-- <div class="col-xl-3 col-md-3">
+                                    <div class="col-xl-3 col-md-3">
                                         <div class="music_btn">
-                                            <a target="_black" href="https://sl.onerpm.com/8501569399?_ga=2.265704205.381027215.1596384096-770625695.1590939926" class="genric-btn warning radius">Salve na sua Playlist</a>
+                                            <a target="_black" href="https://sl.onerpm.com/5209095522?_ga=2.39774051.1164708396.1597097860-770625695.1590939926" class="genric-btn warning radius">Salve na sua Playlist</a>
                                         </div>
-                                    </div> --}}
+                                    </div>
                         </div>
                     </div>
     
@@ -475,7 +475,7 @@
                                         </p>
                                         -------------------------
                                         <p>
-                                            Banco: Itaú
+                                            Banco: Itaú <br>
                                             Conta: 33060-8 <br/>
                                             Ag: 8612 <br/>
                                             Nome: Giovana Luiza Carneiro Pereira <br/>
@@ -508,7 +508,7 @@
                                                         </p>
                                                         -------------------------
                                                         <p>
-                                                            Banco: Itaú
+                                                            Banco: Itaú <br/>
                                                             Conta: 33060-8 <br/>
                                                             Ag: 8612 <br/>
                                                             Nome: Giovana Luiza Carneiro Pereira <br/>
