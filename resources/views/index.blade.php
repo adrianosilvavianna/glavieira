@@ -301,19 +301,51 @@
     <div class="music_area music_gallery">
         <div class="container">
                 <div class="row">
-                        <div class="col-xl-12">
-                            <div class="section_title text-center mb-65">
-                                <h3 id="contribuir">
-                                    Faça sua doação
-                                </h3>
-                                
-                                <p class="sample-text" style="margin: 30px">
-                                    Caso queira realizar o pagamento via Boleto Bancário, entre em <a href="/contact">Contato</a> com a gente e informe o valor da doação.    
-                                </p>
-                                
-                            </div>
+                    <div class="col-xl-12">
+                        <div class="section_title text-center mb-65">
+                            <h3 id="contribuir">
+                                Faça sua doação
+                            </h3>
+                            
+                            <p class="sample-text" style="margin: 30px">
+                                Caso queira realizar o pagamento via Boleto Bancário, entre em <a href="/contact">Contato</a> com a gente e informe o valor da doação.    
+                            </p>
+                            
                         </div>
                     </div>
+                </div>
+
+                <div class="row align-items-center justify-content-center mb-20">
+                    <div class="col-xl-10">
+                        <div class="row align-items-center">
+                                <div class="col-xl-9 col-md-9">
+                                    <div class="music_field">
+                                            <div class="thumb">
+                                                <img src="img/bank/qr_code_paypal.png" alt="">
+                                            </div>
+                                            <div class="audio_name">
+                                                <div class="name">
+                                                    <h4>Paypal</h4>
+                                                    
+                                                </div>
+                                            </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-3 col-md-3">
+                                    <div class="music_btn" >
+                                        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                                            <input type="hidden" name="cmd" value="_s-xclick" />
+                                            <input type="hidden" name="hosted_button_id" value="489T8XKQ28CKU" />
+                                            <input type="image" src="https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+                                            <img alt="" border="0" src="https://www.paypal.com/pt_BR/i/scr/pixel.gif" width="1" height="1" />
+                                        </form>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+    
+                </div>
+
             <div class="row align-items-center justify-content-center mb-20">
                 <div class="col-xl-10">
                     <div class="row align-items-center">
@@ -363,6 +395,7 @@
                 </div>
 
             </div>
+
             <div class="row align-items-center justify-content-center mb-20">
                 <div class="col-xl-10">
                     <div class="row align-items-center">
