@@ -315,24 +315,31 @@
                     </div>
                 </div>
 
+
                 <div class="row align-items-center justify-content-center mb-20">
                     <div class="col-xl-10">
                         <div class="row align-items-center">
+                            @desktop
                                 <div class="col-xl-9 col-md-9">
                                     <div class="music_field">
                                             <div class="thumb">
-                                                <img src="img/bank/qr_code_paypal.png" alt="">
+                                                <img src="img/bank/itau_caixa.png" alt="">
                                             </div>
                                             <div class="audio_name">
                                                 <div class="name">
-                                                    <h4>Paypal</h4>
-                                                    
+                                                    <h4>PayPal</h4>
+                                                    <ol>
+                                                        <li>1 - Abra seu aplicativo do Paypal;</li>
+                                                        <li>2 - Clique no ícone <i class="fa fa-qrcode"></i></li>
+                                                        <li>3 - Direcione a camera para a imagem ao lado;</li>
+                                                        <li>4 - Digite o valor que deseja doar e confirme a transação.</li>
+                                                    </ol>
                                                 </div>
                                             </div>
                                     </div>
                                 </div>
                                 <div class="col-xl-3 col-md-3">
-                                    <div class="music_btn" >
+                                    <div class="music_btn">
                                         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                                             <input type="hidden" name="cmd" value="_s-xclick" />
                                             <input type="hidden" name="hosted_button_id" value="489T8XKQ28CKU" />
@@ -341,6 +348,28 @@
                                         </form>
                                     </div>
                                 </div>
+                            @elsedesktop
+                                <div class="col-xl-9 col-md-9">
+                                    <div class="music_field">
+                                            <div class="thumb">
+                                                <img src="img/bank/itau_caixa.png" alt="Transferência bancária Bancos CAIXA e ITAU">
+                                            </div>
+                                            <div class="audio_name">
+                                                <div class="name">
+                                                    <h4>PayPal</h4>
+                                                    <div>
+                                                        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                                                            <input type="hidden" name="cmd" value="_s-xclick" />
+                                                            <input type="hidden" name="hosted_button_id" value="489T8XKQ28CKU" />
+                                                            <input type="image" src="https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+                                                            <img alt="" border="0" src="https://www.paypal.com/pt_BR/i/scr/pixel.gif" width="1" height="1" />
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                    </div>
+                                </div>
+                            @enddesktop
                         </div>
                     </div>
     
