@@ -323,7 +323,7 @@
                                 <div class="col-xl-9 col-md-9">
                                     <div class="music_field">
                                             <div class="thumb">
-                                                <img src="img/bank/itau_caixa.png" alt="">
+                                                <img src="img/bank/qr_code_paypal.png" alt="">
                                             </div>
                                             <div class="audio_name">
                                                 <div class="name">
@@ -352,7 +352,7 @@
                                 <div class="col-xl-9 col-md-9">
                                     <div class="music_field">
                                             <div class="thumb">
-                                                <img src="img/bank/itau_caixa.png" alt="Transferência bancária Bancos CAIXA e ITAU">
+                                                <img src="img/bank/qr_code_paypal.png" alt="Transferência bancária Bancos CAIXA e ITAU">
                                             </div>
                                             <div class="audio_name">
                                                 <div class="name">
