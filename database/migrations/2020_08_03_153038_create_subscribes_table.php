@@ -17,6 +17,7 @@ class CreateSubscribesTable extends Migration
             $table->id();
             $table->string('email');
             $table->string('number');
+            $table->string('link');
             $table->timestamps();
         });
     }

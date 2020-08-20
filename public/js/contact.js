@@ -97,19 +97,23 @@ $(document).ready(function(){
                     required: true,
                     email: true
                 },
-                message: {
+                link: {
                     required: true,
-                    minlength: 10
+                    minlength: 6
                 }
             },
             messages: {  
                 number: {
-                    required: "Coloca aí seu telefone pra gente poder falar com você",
+                    required: "Precisamos do seu número para entrarmos em contato",
                     minlength: "Digita seu número por favor!"
                 },
                 email: {
                     required: "Seu e-mail por favor!",
                     email: "Tem certeza de que seu e-mail está correto?"
+                },
+                message: {
+                    required: "Qual seu Site/Blog/Rede Social?",
+                    minlength: "seu link tem que começar com https http ou www"
                 }
             },
             submitHandler: function(form) {

@@ -47,6 +47,28 @@
     <link rel="stylesheet" href="css/slick.css">
     <link rel="stylesheet" href="css/slicknav.css">
     <link rel="stylesheet" href="css/style.css">
+
+    <style>
+        .float-wpp{
+            position:fixed;
+            width:60px;
+            height:60px;
+            bottom:40px;
+            right:40px;
+            background-color:#25d366;
+            color:#FFF;
+            border-radius:50px;
+            text-align:center;
+            font-size:30px;
+            box-shadow: 2px 2px 3px #999;
+            z-index:100;
+        }
+
+        .my-float-wpp{
+            margin-top:16px;
+        }    
+    </style>
+
     
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
 </head>
@@ -109,8 +131,11 @@
                 </div>
             </div>
         </div>
+
     </header>
     <!-- header-end -->
+
+    
 
     @yield('content')
 
@@ -122,17 +147,18 @@
                     <div class="col-xl-6 col-md-6">
                             <div class="footer_widget">
                                     <h3 class="footer_title">
-                                        Serviços
+                                        Quer ser nosso parceiro?
                                     </h3>
                                 <div class="subscribe-from">
                                     <form id="subscribeForm" action="/subscribe" method="post">
                                             <input type="text" name="_token" id="_token" value="{{ csrf_token() }}" hidden>
                                             <input type="text" name="email" placeholder="Digite seu e-mail">
-                                            <input type="number" name="number" placeholder="9999-99999">
+                                            <input type="number" name="number" placeholder="(DDD)9999-99999">
+                                            <input type="text" name="link" placeholder="https://...">
                                             <button type="submit" >Enviar</button>
                                         </form>
                                 </div>
-                                    <p class="sub_text">No momento estamos em <b>quarentena</b>, mas deixe seu e-mail caso queira agendar ou solicitar nossos serviços. <br/> Ficaremos muito honrados!!</p>
+                                    <p class="sub_text">Caso tenha interesse em propor uma parceria conosco, deixe seu e-mail, telefone e o link da sua página (Site/Blog/Rede Social) que entraremos em contato o mais rápido possível.</p>
                                 </div>
                     </div>
                     <div class="col-xl-5 col-md-5 offset-xl-1">
@@ -148,7 +174,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        +55 (041) 99555-8643
+                                        +55 (041) 99555-8643 |
                                         +55 (041) 99702-0390
                                     </a>
                                 </li>
@@ -162,9 +188,9 @@
                                 <div class="social_icon ">
                                     <ul>
                                         <li style="font-size: 30px">
+                                            <a href="https://www.instagram.com/glavieira_studio/" target="_blank"> <i class="fa fa-instagram"></i> </a>
                                             <a  href="https://www.facebook.com/glavieirastudio" target="_blank"> <i class="fa fa-facebook"></i> </a>
                                             <a href="https://open.spotify.com/artist/5IJweJv5ihDVbpuK8WNl7z?si=9WJEMPk0RaaiU5w8rrbdMQ" target="_blank"> <i class="fa fa-spotify"></i> </a>  
-                                            <a href="https://www.instagram.com/glavieira_studio/" target="_blank"> <i class="fa fa-instagram"></i> </a>
                                             <a href="https://www.youtube.com/channel/UCtNsuArvgXidmAiLQLR9Wdw" target="_blank"> <i class="fa fa-youtube-play"></i> </a>
                                         </li>
                                     </ul>
@@ -197,8 +223,11 @@
                 </div>
             </div>
         </div>
+        
     </footer>
     <!--/ footer end  -->
+
+   
 
     <!-- link that opens popup -->
 
@@ -261,6 +290,9 @@
                 }
                 
             </script>
+            {{-- botao flutuante whattsapp --}}
+            <a href="https://api.whatsapp.com/send?phone=5541997020390." class="float-wpp" target="_blank">
+                <i class="fa fa-whatsapp my-float-wpp"></i>
 </body>
 
 </html>

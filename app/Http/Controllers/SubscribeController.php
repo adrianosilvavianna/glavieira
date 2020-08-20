@@ -13,8 +13,8 @@ class SubscribeController extends Controller
 {
     public function subscribe(Request $request)
     {
-        $subscribe = Subscribe::create(['email' => $request->email, 'number' => $request->number]);
+        $subscribe = Subscribe::create($request->all());
         // Mail::to($request->email)->send(new SubscribeMail($request));
-        Mail::to(env('MAIL_FROM_ADDRESS', 'glavieirastudio@gmail.com'))->send(new SubscribeFast($request)); 
+        // Mail::to(env('MAIL_FROM_ADDRESS', 'glavieirastudio@gmail.com'))->send(new SubscribeFast($request)); 
     }
  }

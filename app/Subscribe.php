@@ -15,7 +15,7 @@ class Subscribe extends Model
      * @var array
      */
     protected $fillable = [
-        'number', 'email',
+        'number', 'email', 'link'
     ];
 
 }

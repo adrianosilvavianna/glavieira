@@ -31,11 +31,12 @@ class SubscribeFast extends Mailable
     public function build()
     {
         return $this
-            ->from('glavieirastudio@gmail.com')
-            ->subject('Contato Rápido')
+            ->from(env('MAIL_FROM_ADDRESS', 'glavieirastudio@gmail.com'))
+            ->subject('Contato para Parceria')
             ->markdown('emails.subscribe_fast', [
                 'email' => $this->request->email,
-                'number' => $this->request->number
+                'number' => $this->request->number,
+                'link'=> $this->request->links
             ]);
     }
 }
