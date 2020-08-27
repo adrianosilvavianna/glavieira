@@ -21,5 +21,9 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
+Route::get('/repertory', function () {
+    return view('repertory');
+});
+
 Route::post('/contact', 'ContactController@sendContact');
 Route::post('/subscribe', 'SubscribeController@subscribe');

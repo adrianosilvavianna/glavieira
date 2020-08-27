@@ -3144,12 +3144,12 @@ h3 {
 
 /* line 7, ../../Arafath/CL/Cl November/221. Music/HTML/scss/_bradcam.scss */
 .breadcam_bg_3 {
-  background-image: url(../img/banner/bradcam3.png);
+  background-image: url(../img/banner/bradcam_3.png);
 }
 
 /* line 10, ../../Arafath/CL/Cl November/221. Music/HTML/scss/_bradcam.scss */
 .breadcam_bg_4 {
-  background-image: url(../img/banner/bradcam_4.png);
+  background-image: url(../img/banner/bradcam_3.png);
 }
 
 /* line 13, ../../Arafath/CL/Cl November/221. Music/HTML/scss/_bradcam.scss */
@@ -4001,15 +4001,15 @@ h3 {
 
 /* line 39, ../../Arafath/CL/Cl November/221. Music/HTML/scss/_video.scss */
 .youtube_video_area .single_video .hover_elements .video a {
-  background: #ED1B1B;
-  width: 58px;
-  height: 58px;
+  /* background: #ED1B1B; */
+  /* width: 58px; */
+  /* height: 58px; */
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  font-size: 14px;
+  font-size: 40px;
   display: inline-block;
-  color: #fff;
+  color: #ED1B1B;
   text-align: center;
   line-height: 58px;
   margin-bottom: 40px;

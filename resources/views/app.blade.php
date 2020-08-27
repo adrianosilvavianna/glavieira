@@ -97,7 +97,12 @@
                                 <div class="main-menu  d-none d-lg-block">
                                     <nav>
                                         <ul id="navigation">
-                                            <li><a href="/" class="active" href="index.html">Início</a></li>
+                                            <li>
+                                                <a href="/" class="active" href="index.html">Início</a>
+                                            </li>
+                                            <li>
+                                                <a href="/repertory" class="active" href="index.html">Repertório</a>
+                                            </li>
                                             <li>
                                                 <a href="/contact">Contato</a>
                                             </li>
@@ -154,7 +159,7 @@
                                             <input type="text" name="_token" id="_token" value="{{ csrf_token() }}" hidden>
                                             <input type="text" name="email" placeholder="Digite seu e-mail">
                                             <input type="number" name="number" placeholder="(DDD)9999-99999">
-                                            <input type="text" name="link" placeholder="https://...">
+                                            <input type="text" name="link" placeholder="Link de uma rede social ou site">
                                             <button type="submit" >Enviar</button>
                                         </form>
                                 </div>

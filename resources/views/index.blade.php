@@ -37,27 +37,27 @@
             <div class="row align-items-center justify-content-center">
                 <div class="col-xl-10">
                     <div class="row align-items-center">
-                                <div class="col-xl-9 col-md-9">
-                                    <div class="music_field">
-                                            <div class="thumb">
-                                                    <img src="img/music_man/1.png" alt="">
-                                                </div>
-                                                <div class="audio_name">
-                                                    <div class="name">
-                                                        <h4>Sintonia</h4>
-                                                        <p>3 Agosto, 2020</p>
-                                                    </div>
-                                                        <audio preload="auto" controls>
-                                                            <source src="songs/sintonia.mp3">
-                                                        </audio>
-                                                </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-3 col-md-3">
-                                    <div class="music_btn">
-                                        <a target="_black" href="https://sl.onerpm.com/5209095522?_ga=2.39774051.1164708396.1597097860-770625695.1590939926" class="genric-btn warning radius">Salve na sua Playlist</a>
-                                    </div>
-                                </div>
+                        <div class="col-xl-9 col-md-9">
+                            <div class="music_field">
+                                    <div class="thumb">
+                                            <img src="img/music_man/1.png" alt="">
+                                        </div>
+                                        <div class="audio_name">
+                                            <div class="name">
+                                                <h4>Sintonia</h4>
+                                                <p>3 Agosto, 2020</p>
+                                            </div>
+                                                <audio preload="auto" controls>
+                                                    <source src="songs/sintonia.mp3">
+                                                </audio>
+                                        </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-md-3">
+                            <div class="music_btn">
+                                <a target="_black" href="https://sl.onerpm.com/5209095522?_ga=2.39774051.1164708396.1597097860-770625695.1590939926" class="genric-btn warning radius">Salve na sua Playlist</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
@@ -153,6 +153,19 @@
         </div>
         @enddesktop
 
+
+        
+        <div class="container" style="margin-top: 2%">
+            <div class="row align-items-center">
+                <div class="col-xl-12">
+                    <a href="/repertory">
+                        <img src="img/banner/banner_repertorio.gif" style="width: 100%;height: auto;">
+                    </a>
+                </div>
+            </div>   
+        </div>
+        
+
     <div class="about_area">
         <div class="container">
             <div class="row align-items-center">
@@ -190,7 +203,7 @@
 
     <div class="about_area">
         <div class="container">
- 
+
 				<h2 class="text-center">
                     <i class="fa fa-heart-o" aria-hidden="true"></i>  
                         Por favor leia este recado  
@@ -208,94 +221,7 @@
 
         </div>
     </div>
-
-    
     <!--/ about_area  -->
-
-    <!-- youtube_video_area  
-        <div class="youtube_video_area">
-            <div class="container-fluid p-0">
-                <div class="row no-gutters">
-                    <div class="col-xl-3 col-lg-3 col-md-6">
-                        <div class="single_video">
-                            <div class="thumb">
-                                <img src="img/video/1.png" alt="">
-                            </div>
-                            <div class="hover_elements">
-                                <div class="video">
-                                        <a class="popup-video" href="https://www.youtube.com/watch?v=Ltpi2qUQXmo"> 
-                                                <i class="fa fa-play"></i>
-                                            </a>
-                                </div>
-
-                                <div class="hover_inner">
-                                    <span>Curitiba - PR </span>
-                                    <h3><a href="#">Cover - Amigo estou aqui</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-6">
-                        <div class="single_video">
-                            <div class="thumb">
-                                <img src="img/video/2.png" alt="">
-                            </div>
-                            <div class="hover_elements">
-                                <div class="video">
-                                        <a class="popup-video" href="https://www.youtube.com/watch?v=AAWbvomTyyo"> 
-                                                <i class="fa fa-play"></i>
-                                            </a>
-                                </div>
-
-                                <div class="hover_inner">
-                                    <span>Curitiba - PR </span>
-                                    <h3><a href="#">Cover - Say a litle pray for you</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-6">
-                        <div class="single_video">
-                            <div class="thumb">
-                                <img src="img/video/3.png" alt="">
-                            </div>
-                            <div class="hover_elements">
-                                <div class="video">
-                                        <a class="popup-video" href="https://www.youtube.com/watch?v=1QZepOIT2OU"> 
-                                                <i class="fa fa-play"></i>
-                                            </a>
-                                </div>
-
-                                <div class="hover_inner">
-                                    <span>Curitiba - PR </span>
-                                    <h3><a href="#">Cover - Respect </a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-6">
-                        <div class="single_video">
-                            <div class="thumb">
-                                <img src="img/video/4.png" alt="">
-                            </div>
-                            <div class="hover_elements">
-                                <div class="video">
-                                        <a class="popup-video" href="https://www.youtube.com/watch?v=iDKhrE2BTgM"> 
-                                                <i class="fa fa-play"></i>
-                                            </a>
-                                </div>
-
-                                <div class="hover_inner">
-                                    <span>Curitiba - PR</span>
-                                    <h3><a href="#">Cover - Feeling Good</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    / youtube_video_area  -->
 
     <!-- music_area  -->
     <div class="music_area music_gallery">
