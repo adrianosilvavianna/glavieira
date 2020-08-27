@@ -1309,7 +1309,7 @@
             <div class="col-xl-12">
                 <div class="section_title text-center mb-65">
                     <h3 id="contribuir">
-                        Ultimos Videos
+                        Últimos Vídeos
                     </h3>
                 </div>
             </div>
