@@ -503,9 +503,9 @@
                     <li class="list-group-item">
                         <a href="https://www.instagram.com/tv/CCmqPALBkoK/?utm_source=ig_web_copy_link"  target="_blanck">
                             <i class="fa fa-instagram"></i>
-                                Rihanna -
+                                Love on the Brain -
                             <small>
-                                Love on the Brain                                
+                                Rihanna                                
                             </small>
                         </a>  
                     </li>
