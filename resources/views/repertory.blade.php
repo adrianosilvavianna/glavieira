@@ -35,6 +35,357 @@
         <div class="row">
 
             <div class="card" style="width: 18rem;margin:3% auto">
+                <a href="https://www.instagram.com/tv/CE0I2egF0tt/?utm_source=ig_web_copy_link">
+                    <img src="img/repertory/live_dani.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <h5 class="card-title">Mpb+Soul</h5>
+                    <p class="card-text">
+                        No nosso novo cenário tocamos as musicas do nosso repertório.
+                    </p>
+                </a>
+                </div>
+                <ul class="list-group list-group-flush">
+
+                    <li class="list-group-item">
+                        <a href="https://youtu.be/mbq-o0DbFww"  target="_blanck">
+                            <i class="fa fa-youtube-play"></i>
+                                Jeito De Amar -
+                            <small>
+                                Duda Beat
+                            </small>
+                        </a>
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://youtu.be/SxnarZ-GYAk"  target="_blanck">
+                            <i class="fa fa-youtube-play"></i>
+                                Who's Loving You -
+                            <small>
+                                Jackson Five
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://youtu.be/0XXl7OXJbM0"  target="_blanck">
+                            <i class="fa fa-youtube-play"></i>
+                                Fallin -
+                            <small>
+                                Alicia Keys
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://youtu.be/1QZepOIT2OU"  target="_blanck">
+                            <i class="fa fa-youtube-play"></i>
+                                Respect -
+                            <small>
+                                Areta Franklin
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://youtu.be/DOdnAdPKrko"  target="_blanck">
+                            <i class="fa fa-youtube-play"></i>
+                                Olhos Coloridos -
+                            <small>
+                                Sandra De Sá
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CAc4ZhXh6wl/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Chega De Saudade -
+                            <small>
+                                Tom Jobim
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CEu6HZ9FYR4/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Cara Valente -
+                            <small>
+                                Maria Rita
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CEpnEYQl43b/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                At Last -
+                            <small>
+                                Etta James
+                            </small>
+                        </a>
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CCZmYaeBlEn/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Feeling Good -
+                            <small>
+                                Nina Simone
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                            I`d Rather Be Blind - 
+                        <small>
+                            Etta James
+                        </small>
+                    </li>
+                    
+                    <li class="list-group-item">
+                            Fim De Tarde - 
+                        <small>
+                            Fat Family
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Fica Tudo Bem - 
+                        <small>
+                            Silva
+                        </small>
+                    </li>
+
+                </ul>
+                <div class="card-body">
+                    <a href="https://www.instagram.com/tv/CE0I2egF0tt/?utm_source=ig_web_copy_link" class="card-link genric-btn warning circle" >
+                        Ir para Live Mpb+Soul
+                    </a>
+                </div>
+            </div>
+
+            <div class="card" style="width: 18rem;margin:3% auto">
+                <a href="https://www.instagram.com/tv/CEiGq2_nrGa/?utm_source=ig_web_copy_link">
+                    <img src="img/repertory/live_chill.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <h5 class="card-title">Quarentine Chill</h5>
+                    <p class="card-text">
+                        Belas canções Good Vibes pra vc não ficar mal.
+                    </p>
+                </a>
+                </div>
+                <ul class="list-group list-group-flush">
+
+                    <li class="list-group-item">
+                        <a href="https://youtu.be/teZ4zF1wmEw"  target="_blanck">
+                            <i class="fa fa-youtube-play"></i>
+                                Ai que Saudade D`ocê -
+                            <small>
+                                Elba Ramalho           
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CEaeXyPnbDh/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Stand By Me -
+                            <small>
+                                Ben. E. King
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CEVTcxNHBwm/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Don`t Worry Be Happy -
+                            <small>
+                                Bobby McFerrin
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CEfkqVyn1I2/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Put Your Records On -
+                            <small>
+                                Corinne Rae
+                            </small>
+                        </a>  
+                    </li>
+                    
+                    <li class="list-group-item">
+                            Somewhere over the rainbow - 
+                        <small>
+                            Israel Kamakawiwo'ole
+                        </small>
+                    </li>
+                    
+                    <li class="list-group-item">
+                            How deep is your love - 
+                        <small>
+                            Bee gees
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Calmô - 
+                        <small>
+                            Liniker
+                        </small>
+                    </li>
+                    
+                    <li class="list-group-item">
+                        Can`t By Me Love - 
+                        <small>
+                            Beatles
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Meu Abrigo - 
+                        <small>
+                            Melim
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Oração - 
+                        <small>
+                            Banda Mais Bonita Da Cidade
+                        </small>
+                    </li>
+
+                </ul>
+                <div class="card-body">
+                    <a href="https://www.instagram.com/tv/CEiGq2_nrGa/?utm_source=ig_web_copy_link" class="card-link genric-btn warning circle" >
+                        Ir para Live Quarentine
+                    </a>
+                </div>
+            </div>
+
+            <div class="card" style="width: 18rem;margin:3% auto">
+                <a href="https://www.instagram.com/tv/CD-DolJBvqR/">
+                    <img src="img/repertory/live_bossa.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <h5 class="card-title">Novas</h5>
+                    <p class="card-text">
+                        Trouxemos Covers de artistas novos que estão arrasando no novoo senário da MPB, Folk e Pop.
+                    </p>
+                </a>
+                </div>
+                <ul class="list-group list-group-flush">
+
+                    <li class="list-group-item">
+                        <a href="https://youtu.be/mbq-o0DbFww"  target="_blanck">
+                            <i class="fa fa-youtube-play"></i>
+                                Meu Jeito de amar -
+                            <small>
+                                Duda Beat           
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://youtu.be/NF4yyW28Ixo"  target="_blanck">
+                            <i class="fa fa-youtube-play"></i>
+                                Mother May I Sleep With Danger -
+                            <small>
+                                Joy Crookes
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://youtu.be/RwlhDa-y85A"  target="_blanck">
+                            <i class="fa fa-youtube-play"></i>
+                                Apaga a Luz -
+                            <small>
+                                Glória Groove
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CD47mjWBWke/"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Asas -
+                            <small>
+                                Luedji Luna
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CEDJVb-hJPd/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Sintonia -
+                            <small>
+                                Giovana Pereira & Adriano Vianna
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CEFv0E0h-yl/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                A Cor é Rosa -
+                            <small>
+                                Silva
+                            </small>
+                        </a>  
+                    </li>
+                    
+                    <li class="list-group-item">
+                            Tempo pra amar - 
+                        <small>
+                            Mahmundi
+                        </small>
+                    </li>
+                    <li class="list-group-item">
+                            Tangerina -
+                        <small>
+                            Tiago Iorc
+                        </small>
+                    </li>
+                    <li class="list-group-item">
+                            Asas -
+                        <small>
+                            Luedji Luna
+                        </small>
+                    </li>
+                    <li class="list-group-item">
+                            Something In The Way -
+                        <small>
+                            Jorja Smith
+                        </small>
+                    </li>
+                    <li class="list-group-item">
+                        Do not Disturb -
+                        <small>
+                            Mahalia
+                        </small>
+                    </li>
+                    <li class="list-group-item">
+                            Fica Tudo Bem -
+                        <small>
+                            Silva
+                        </small>
+                    </li>
+                    
+                    
+                </ul>
+                <div class="card-body">
+                    <a href="https://www.instagram.com/tv/CEQE7qmH0-8/?utm_source=ig_web_copy_link" class="card-link genric-btn warning circle" >
+                        Ir para Live Novas
+                    </a>
+                </div>
+            </div>
+
+            <div class="card" style="width: 18rem;margin:3% auto">
                 <a href="https://www.instagram.com/tv/CD-DolJBvqR/">
                     <img src="img/repertory/live_bossa.png" class="card-img-top" alt="...">
                     <div class="card-body">
