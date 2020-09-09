@@ -36,7 +36,7 @@
 
             <div class="card" style="width: 18rem;margin:3% auto">
                 <a href="https://www.instagram.com/tv/CE0I2egF0tt/?utm_source=ig_web_copy_link">
-                    <img src="img/repertory/live_dani.png" class="card-img-top" alt="...">
+                    <img src="img/repertory/live_dani.png" class="card-img-top" alt="No nosso novo cenário tocamos as musicas do nosso repertório.">
                     <div class="card-body">
                     <h5 class="card-title">Mpb+Soul</h5>
                     <p class="card-text">
@@ -167,11 +167,11 @@
 
             <div class="card" style="width: 18rem;margin:3% auto">
                 <a href="https://www.instagram.com/tv/CEiGq2_nrGa/?utm_source=ig_web_copy_link">
-                    <img src="img/repertory/live_chill.png" class="card-img-top" alt="...">
+                    <img src="img/repertory/live_chill.png" class="card-img-top" alt="Belas canções Good Vibes pra você não ficar mal.">
                     <div class="card-body">
                     <h5 class="card-title">Quarentine Chill</h5>
                     <p class="card-text">
-                        Belas canções Good Vibes pra vc não ficar mal.
+                        Belas canções Good Vibes pra você não ficar mal.
                     </p>
                 </a>
                 </div>
@@ -269,7 +269,7 @@
 
             <div class="card" style="width: 18rem;margin:3% auto">
                 <a href="https://www.instagram.com/tv/CD-DolJBvqR/">
-                    <img src="img/repertory/live_bossa.png" class="card-img-top" alt="...">
+                    <img src="img/repertory/live_novas.png" class="card-img-top" alt="Trouxemos Covers de artistas novos que estão arrasando no novoo senário da MPB, Folk e Pop.">
                     <div class="card-body">
                     <h5 class="card-title">Novas</h5>
                     <p class="card-text">
@@ -387,7 +387,7 @@
 
             <div class="card" style="width: 18rem;margin:3% auto">
                 <a href="https://www.instagram.com/tv/CD-DolJBvqR/">
-                    <img src="img/repertory/live_bossa.png" class="card-img-top" alt="...">
+                    <img src="img/repertory/live_bossa.png" class="card-img-top" alt="Uma cerveja sempre vem acompanhada de uma boa Bossa. Nessa live só não trouxemos a cerveja.">
                     <div class="card-body">
                     <h5 class="card-title">Bossa Nova</h5>
                     <p class="card-text">
@@ -496,7 +496,7 @@
 
             <div class="card" style="width: 18rem;margin:3% auto">
                 <a href="https://www.instagram.com/tv/CDsB4apBHr1/">
-                    <img src="img/repertory/live_nostalgia.png" class="card-img-top" alt="...">
+                    <img src="img/repertory/live_nostalgia.png" class="card-img-top" alt="Para relembrar aqueles clássicos que marcaram nossa vida.">
                     <div class="card-body">
                     <h5 class="card-title">Nostalgia</h5>
                     <p class="card-text">
@@ -606,7 +606,7 @@
 
             <div class="card" style="width: 18rem;margin:3% auto">
                 <a href="https://www.instagram.com/tv/CDaAn9GBWau//">
-                    <img src="img/repertory/live_nacionais.png" class="card-img-top" alt="...">
+                    <img src="img/repertory/live_nacionais.png" class="card-img-top" alt="Aqueles hinos que só o Brasil tem.">
                     <div class="card-body">
                     <h5 class="card-title">Nacionais</h5>
                     <p class="card-text">
@@ -710,7 +710,7 @@
 
             <div class="card" style="width: 18rem;margin:3% auto">
                 <a href="https://www.instagram.com/tv/CDH_CY-lKfQ/">
-                    <img src="img/repertory/live_love.png" class="card-img-top" alt="...">
+                    <img src="img/repertory/live_love.png" class="card-img-top" alt="Aquela trilha sonora pra curtir com o mozão.">
                     <div class="card-body">
                     <h5 class="card-title">Love Songs</h5>
                     <p class="card-text">
@@ -805,7 +805,7 @@
             
             <div class="card" style="width: 18rem;margin:3% auto">
                 <a href="https://www.instagram.com/tv/CC188KElfxK/?utm_source=ig_web_copy_link">
-                    <img src="img/repertory/live_mulheres.png" class="card-img-top" alt="...">
+                    <img src="img/repertory/live_mulheres.png" class="card-img-top" alt="Live dedicada a mulheres incríveis e fodas">
                     <div class="card-body">
                     <h5 class="card-title">Mulheres Incríveis</h5>
                     <p class="card-text">
@@ -1018,7 +1018,7 @@
 
             <div class="card" style="width: 18rem;margin:3% auto">
                 <a href="https://www.instagram.com/tv/CCR5uBYFngf/?utm_source=ig_web_copy_link">
-                    <img src="img/repertory/live_trilhas.png" class="card-img-top" alt="...">
+                    <img src="img/repertory/live_trilhas.png" class="card-img-top" alt="Reunimos aquelas musicas temas de filmes clássicos e famosos que todo mundo ama.">
                     <div class="card-body">
                     <h5 class="card-title">Trilhas Sonoras</h5>
                     <p class="card-text">
@@ -1124,7 +1124,7 @@
 
             <div class="card" style="width: 18rem;margin:3% auto">
                 <a href="https://www.instagram.com/tv/CB_35LiFH1B/?utm_source=ig_web_copy_link">
-                    <img src="img/repertory/live_80.png" class="card-img-top" alt="...">
+                    <img src="img/repertory/live_80.png" class="card-img-top" alt="Live que reune o melhor dos anos 80 desde Michael Jackson a Xuxa.">
                     <div class="card-body">
                     <h5 class="card-title">80`s</h5>
                     <p class="card-text">
@@ -1225,7 +1225,7 @@
                     <div class="card-body">
                     <h5 class="card-title">Festa Junina</h5>
                     <p class="card-text">
-                        Dia de São João é dia de festa e trouxemos as melhores músicas pra pular fogueira e tomar quentão!
+                        Dia de São João é dia de festa e trouxemos as melhores músicas pra pular fogueira e tomar quentão! Com o maravilhoso <a href="https://www.instagram.com/maestroferreirinha/">@maestroferreirinha</a>
                     </p>
                 </a>
                 </div>
@@ -1322,7 +1322,7 @@
 
             <div class="card" style="width: 18rem;margin:3% auto">
                 <a href="https://www.instagram.com/tv/CBb1XNvBPNg/">
-                    <img src="img/repertory/live_namorados.png" class="card-img-top" alt="...">
+                    <img src="img/repertory/live_namorados.png" class="card-img-top" alt="Especial de Dia dos Namorados , só com músicas românticas pra escutar com o crush.">
                     <div class="card-body">
                     <h5 class="card-title">Dia dos Namorados</h5>
                     <p class="card-text">
