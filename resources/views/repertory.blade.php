@@ -1584,7 +1584,7 @@
                         </a>
                     </li>
                     <li class="list-group-item">
-                        <a href="https://www.instagram.com/tv/CAqFol7FEId/?utm_source=ig_web_copy_link"  target="_blanck">
+                        <a href="https://www.instagram.com/tv/CFDlqG-F5XX/?utm_source=ig_web_copy_link"  target="_blanck">
                             <i class="fa fa-instagram"></i>
                             Eu e voce sempre -
                             <small>
@@ -1766,10 +1766,10 @@
             <div class="col-xl-12">
                 <div class="text text-center">
                     <h3>Parcerias</h3>
-                    <a class="genric-btn danger circle" href="https://www.instagram.com/isaac.yeltsin/" target="_blanck" style="margin: 1% 1%"> 
+                    {{-- <a class="genric-btn danger circle" href="https://www.instagram.com/isaac.yeltsin/" target="_blanck" style="margin: 1% 1%"> 
                         @isaac.yeltsin
                         <i class="fa fa-instagram"></i>
-                    </a>
+                    </a> --}}
                     <a class="genric-btn danger circle" href="https://www.instagram.com/colagensupimpa/" target="_blanck" style="margin: 1% 1%"> 
                         @colagensupimpa
                         <i class="fa fa-instagram"></i>
@@ -1780,6 +1780,14 @@
                     </a>
                     <a class="genric-btn danger circle" href="https://www.instagram.com/brunapferreira/" target="_blanck" style="margin: 1% 1%"> 
                         @brunapferreira
+                        <i class="fa fa-instagram"></i>
+                    </a>
+                    <a class="genric-btn danger circle" href="https://www.instagram.com/daniccris/" target="_blanck" style="margin: 1% 1%"> 
+                        @daniccris
+                        <i class="fa fa-instagram"></i>
+                    </a>
+                    <a class="genric-btn danger circle" href="https://www.instagram.com/flprmz/" target="_blanck" style="margin: 1% 1%"> 
+                        @flprmz
                         <i class="fa fa-instagram"></i>
                     </a>
                 </div>
