@@ -15,10 +15,12 @@
 
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="keywords" content="favicon, favicon generator, favorite icons, browser icon">
     
     <title>Glavieira</title>
+    <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
 
-    <meta name="description" content="Glavieira Studio, site feito por Adriano Vianna e Giovana Pereira para mostrar nosso trabalho musical.">
+    <meta name="description" content="Com influências que vão de Jazz a MPB, o Glavieira traz uma experiência única repleta de uma serena sinceridade">
     <meta name="google" content="nositelinkssearchbox" />
     <meta name="robots" content="Glavieira, Studio, Giovana, Pereira, Adriano, Vianna, Jazz, Soul, Brasil Song, Sintonia, cover, Mpb, voz e violao, homestudio, musica Curitibana, Curitiba, Brasil, Gla, eira">
     <meta name="googlebot" content="all">
@@ -30,7 +32,8 @@
     <meta name="csrf-token" content="{{ csrf_token() }}" />
 
     <!-- <link rel="manifest" href="site.webmanifest"> -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+    {{-- <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico"> --}}
+    
     <!-- Place favicon.ico in the root directory -->
 
     <!-- CSS here -->
@@ -222,6 +225,13 @@
                             <ul>
                                 <li><a href="/">Início</a></li>
                                 <li><a href="/contact">Contato</a></li>
+                                <li><a href="/repertory">Repertório</a></li>
+                                <li >
+                                    <a href="/#contribuir">
+                                        <i class="fa fa-handshake-o" style="font-size: 17px" aria-hidden="true"></i>  
+                                        Como contribuir
+                                    </a>
+                                </li>
                             </ul>
                         </div>
                     </div>
