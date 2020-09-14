@@ -880,11 +880,15 @@
                     </li>
                     
                     <li class="list-group-item">
-                            Valerie -
-                        <small>
-                            Amy Winehouse
-                        </small>
+                        <a href="https://www.instagram.com/tv/CE7yMjtl5c6/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Valerie -
+                            <small>
+                                Amy Winehouse                         
+                            </small>
+                        </a>  
                     </li>
+
                     <li class="list-group-item">
                             Ainda Bem -
                         <small>
@@ -961,7 +965,15 @@
                             </small>
                         </a>  
                     </li>
-                    
+                    <li class="list-group-item">
+                        <a href="hhttps://www.instagram.com/tv/CE-fftflh5Q/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Negro Gato -
+                            <small>
+                                Luiz Melodia                         
+                            </small>
+                        </a>  
+                    </li>
                     <li class="list-group-item">
                         I'd Rather go Blind -
                         <small>
@@ -972,12 +984,6 @@
                         If I Ain't Got You -
                         <small>
                             Alicia Keys
-                        </small>
-                    </li>
-                    <li class="list-group-item">
-                        Negro Gato -
-                        <small>
-                            Luiz Melodia
                         </small>
                     </li>
                     <li class="list-group-item">
@@ -1513,6 +1519,15 @@
                         </a>  
                     </li>
                     <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CE7yMjtl5c6/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Valerie -
+                            <small>
+                                Amy Winehouse                         
+                            </small>
+                        </a>  
+                    </li>
+                    <li class="list-group-item">
                         Tears Dry on Their Own -
                         <small>
                             Amy w.
@@ -1522,12 +1537,6 @@
                         Put a Spell on You -
                         <small>
                             Annie Lennox
-                        </small>
-                    </li>
-                    <li class="list-group-item">
-                        Valerie -
-                        <small>
-                            Amy Winehouse
                         </small>
                     </li>
                     <li class="list-group-item">
