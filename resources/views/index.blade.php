@@ -549,9 +549,8 @@
         </div>
     </div>
 
-    @desktop
     <!-- gallery -->
-    <div class="gallery_area">
+    {{-- <div class="gallery_area">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -627,8 +626,6 @@
                     </div>
                 </div>
         </div>
-    </div>
+    </div> --}}
     <!--/ gallery -->
-    @enddesktop
-
   
