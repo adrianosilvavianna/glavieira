@@ -3139,7 +3139,7 @@ h3 {
 
 /* line 4, ../../Arafath/CL/Cl November/221. Music/HTML/scss/_bradcam.scss */
 .breadcam_bg_2 {
-  background-image: url(../img/banner/contact.png);
+  background-image: url(../img/banner/bradcam_3.jpg);
 }
 
 /* line 7, ../../Arafath/CL/Cl November/221. Music/HTML/scss/_bradcam.scss */
@@ -3159,7 +3159,7 @@ h3 {
   padding: 250px 0 178px 0;
   background-repeat: no-repeat;
   position: relative;
-  /* z-index: 0; */
+  z-index: 0;
 }
 
 /* line 20, ../../Arafath/CL/Cl November/221. Music/HTML/scss/_bradcam.scss */

@@ -67,160 +67,133 @@
     <!-- music_area end  -->
     @enddesktop
 
-    <!-- about_area  -->
-    <div class="about_area">
+    <div class="gallery_area">
         <div class="container">
-            <div class="row align-items-center">
-                @desktop
-                    <div class="col-xl-5 col-md-6">
-                        <div class="about_thumb">
-                            <img class="img-fluid" src="img/about/about_2.png" alt="">
-                        </div>
-                    </div>
-
-                    <div class="col-xl-7 col-md-6">
-                        <div class="about_info">
-                            <h3>Somos o Glavieira</h3>
-                            <p>
-                                
-                                O Glavieira é um projeto que surgiu do sonho em comum de um casal que ama música e quer levar isso adiante.<br/> 
-                                A proposta conta com a Voz de Giovana Pereira e harmonia de Adriano Vianna produtor e multi-instrumentista. <br/> 
-                                Com influências que vão de Jazz a MPB, o Glavieira traz uma experiência única repleta de uma serena sinceridade. 
-                                Seus versos são coesos com sua vivência, pensamentos ou simplesmente com o que vislumbra em sua própria existência.
-                            </p>
-                            {{-- <div class="signature">
-                                <img src="img/about/signature.png" alt="">
-                            </div> --}}
-                        </div>
-                    </div>
-
-                @elsedesktop
-                
-                    <div class="col-xl-7 col-md-6">
-                        <div class="about_info">
-                            <h4>Somos o Glavieira</h4>
-                            <p style="margin-bottom: 4%">
-                                O Glavieira é um projeto que surgiu do sonho em comum de um casal que ama música e quer levar isso adiante.<br/> 
-                                A proposta conta com a Voz de Giovana Pereira e harmonia de Adriano Vianna produtor e multi-instrumentista. <br/> 
-                                Com influências que vão de Jazz a MPB, o Glavieira traz uma experiência única repleta de uma serena sinceridade. 
-                                Seus versos são coesos com sua vivência, pensamentos ou simplesmente com o que vislumbra em sua própria existência.
-                            </p>
-                            {{-- <div class="signature">
-                                <img src="img/about/signature.png" alt="">
-                            </div> --}}
-                        </div>
-                    </div>
-
-                @enddesktop
-            </div>
-        </div>
-    </div>
-
-    @desktop
-
-    @elsedesktop
-        <div class="music_area" style="background-color: #000">
-            <div class="container">
-                <div class="row align-items-center justify-content-center">
-                    <div class="col-xl-10">
-                        <div class="row align-items-center">
-                                    <div class="col-xl-9 col-md-9">
-                                        <div class="music_field">
-                                                <div class="thumb">
-                                                        <img src="img/music_man/1.png" alt="">
-                                                    </div>
-                                                    <div class="audio_name">
-                                                        <div class="name">
-                                                            <h4>Sintonia</h4>
-                                                            <p>3 Agosto, 2020</p>
-                                                        </div>
-                                                            <audio preload="auto" controls>
-                                                                <source src="songs/sintonia.mp3">
-                                                            </audio>
-                                                    </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-md-3">
-                                        <div class="music_btn">
-                                            <a target="_black" href="https://sl.onerpm.com/5209095522?_ga=2.39774051.1164708396.1597097860-770625695.1590939926" class="genric-btn warning radius">Salve na sua Playlist</a>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-    
-                </div>
-            </div>
-        </div>
-        @enddesktop
-
-
-        
-        <div class="container" style="margin-top: 2%">
-            <div class="row align-items-center">
+            <div class="row">
                 <div class="col-xl-12">
-                    <a href="/repertory">
-                        <img src="img/banner/banner_repertorio.png" style="width: 100%;height: auto;">
-                    </a>
-                </div>
-            </div>   
-        </div>
-        
-
-    <div class="about_area">
-        <div class="container">
-            <div class="row align-items-center">
-                
-                <div class="col-xl-7 col-md-6">
-                    <div class="about_info">
-                        @desktop
-                            <h3>Como Começou</h3>
-                        @elsedesktop
-                            <h4>Como Começou</h4>
-                        @enddesktop
-                        <p>
-                            Nós sempre fomos apaixonados por música, e de alguma forma ela sempre se fez presente em nossa vida. <br/>
-                            Antes de toda essa situação da pandemia, trabalhávamos na área de tecnologia para empresas que acabaram sendo afetadas pela crise e ambos fomos desligados de nossas funções.
-                        </p>
-                        <p>
-                            Com tempo livre, talento e um sonho há muito tempo guardado esperando para acontecer, decidimos colocar a mão na massa e fazer tudo que estivesse ao nosso alcance para viver de música. <br/>
-                            Montamos aos poucos nosso Home Studio e começamos a mostrar nosso trabalho nas <a href="https://linktr.ee/Glavieira" target="_blank">Redes Sociais</a>. <br/>
-                            Antes da pandemia, nos apresentávamos nas noites de quinta-feira no bar underground <a href="https://www.instagram.com/92graus/" target="_blank">92 Graus</a> tocando MPB, Soul, Jazz e Blues, o que nos rendeu grandes experiências, além de dividir palco com grandes músicos das noites Curitibanas.
-                        </p>
-                        <p>
-                            A música nos inspira e nos move e queremos com todo nosso coração ir muito além e levar nossa música aos mais diversos lugares.                        
-                        </p>
-
-                    </div>
-                </div>
-                <div class="col-xl-5 col-md-6">
-                    <div class="about_thumb">
-                        <img class="img-fluid" src="img/about/about_1.png" alt="">
+                    <div class="section_title text-center mb-65">
+                        <h3>Novidades</h3>
+                        <p> O Glavieira Studio agora tem produtos! <br> Confira aqui algumas dessas novidades que preparamos com muito carinho e gratidão aqueles que nos apoiam nessa jornada.
                     </div>
                 </div>
             </div>
+            <div class="row grid">
+                    
+                    <div class="col-xl-4 col-lg-6 grid-item cat4 col-md-6">
+                        <div class="single-gallery mb-30">
+                                <div class="portfolio-img">
+                                        <img src="img/gallery/2.png" alt="">
+                                </div>
+                                <div class="gallery_hover">
+                                        <a class="popup-image" href="img/gallery/2.png" class="hover_inner">
+                                            <i class="ti-plus"></i>
+                                        </a>
+                                </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 grid-item cat2 col-md-6">
+                        <div class="single-gallery mb-30">
+                            <div class="portfolio-img">
+                                    <img src="img/gallery/1.png" alt="">
+                            </div>
+                            <div class="gallery_hover">
+                                    <a class="popup-image" href="img/gallery/1.png" class="hover_inner">
+                                        <i class="ti-plus"></i>
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 grid-item cat2 col-md-6">
+                        <div class="single-gallery mb-30">
+                            <div class="portfolio-img">
+                                    <img src="img/gallery/7.png" alt="">
+                            </div>
+                            <div class="gallery_hover">
+                                    <a class="popup-image" href="img/gallery/7.png" class="hover_inner">
+                                        <i class="ti-plus"></i>
+                                    </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-4 col-lg-6 grid-item cat4 col-md-6">
+                        <div class="single-gallery mb-30">
+                                <div class="portfolio-img">
+                                        <img src="img/gallery/4.png" alt="">
+                                </div>
+                                <div class="gallery_hover">
+                                        <a class="popup-image" href="img/gallery/4.png" class="hover_inner">
+                                            <i class="ti-plus"></i>
+                                        </a>
+                                </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 grid-item cat2 col-md-6">
+                        <div class="single-gallery mb-30">
+                            <div class="portfolio-img">
+                                    <img src="img/gallery/5.png" alt="">
+                            </div>
+                            <div class="gallery_hover">
+                                    <a class="popup-image" href="img/gallery/5.png" class="hover_inner">
+                                        <i class="ti-plus"></i>
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 grid-item cat2 col-md-6">
+                        <div class="single-gallery mb-30">
+                            <div class="portfolio-img">
+                                    <img src="img/gallery/6.png" alt="">
+                            </div>
+                            <div class="gallery_hover">
+                                    <a class="popup-image" href="img/gallery/6.png" class="hover_inner">
+                                        <i class="ti-plus"></i>
+                                    </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-4 col-lg-6 grid-item cat4 col-md-6">
+                        <div class="single-gallery mb-30">
+                                <div class="portfolio-img">
+                                        <img src="img/gallery/8.png" alt="">
+                                </div>
+                                <div class="gallery_hover">
+                                        <a class="popup-image" href="img/gallery/8.png" class="hover_inner">
+                                            <i class="ti-plus"></i>
+                                        </a>
+                                </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 grid-item cat2 col-md-6">
+                        <div class="single-gallery mb-30">
+                            <div class="portfolio-img">
+                                    <img src="img/gallery/9.png" alt="">
+                            </div>
+                            <div class="gallery_hover">
+                                    <a class="popup-image" href="img/gallery/9.png" class="hover_inner">
+                                        <i class="ti-plus"></i>
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 grid-item cat2 col-md-6">
+                        <div class="single-gallery mb-30">
+                            <div class="portfolio-img">
+                                    <img src="img/gallery/10.png" alt="">
+                            </div>
+                            <div class="gallery_hover">
+                                    <a class="popup-image" href="img/gallery/10.png" class="hover_inner">
+                                        <i class="ti-plus"></i>
+                                    </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
         </div>
     </div>
 
-    <div class="about_area">
-        <div class="container">
-
-				<h2 class="text-center">
-                    <i class="fa fa-heart-o" aria-hidden="true"></i>  
-                        Por favor leia este recado  
-                    <i class="fa fa-heart-o" aria-hidden="true"></i>
-                </h2>
-				<div class="row">
-					<div class="col-lg-12">
-						<blockquote class="generic-blockquote">
-                            Caso você possa e queira nos ajudar com esse projeto de vida, nós disponibilizamos aqui algumas formas de contribuição VOLUNTÁRIA.<br/>
-                            <i class="text-center">Qualquer valor já nos ajuda muito!!! </i> Agradecemos de coração. <br/>
-                            <a href="#contribuir" class="text-center genric-btn success circle">Faça Sua Doação</a>
-                        </blockquote>
-					</div>
-				</div>
-
-        </div>
-    </div>
+        
     <!--/ about_area  -->
 
     <!-- music_area  -->
@@ -230,11 +203,17 @@
                     <div class="col-xl-12">
                         <div class="section_title text-center mb-65">
                             <h3 id="contribuir">
-                                Faça sua doação
+                                Quer receber esses produtos?
                             </h3>
                             
                             <p class="sample-text" style="margin: 30px">
-                                Caso queira realizar o pagamento via Boleto Bancário, entre em <a href="/contact">Contato</a> com a gente e informe o valor da doação.    
+                                Faça uma contribuição e você ajuda a dar continuidade ao nosso projeto e nós enviamos um presente especial pra você. <br>
+                                Recompensas: <br>
+                                <ul>
+                                    <li>Para R$ 15 ou mais: Enviamos um kit com 7 adesivos</li>
+                                    <li>Para R$ 30 ou mais: Enviamos uma caneca personalizada</li>
+                                    <li>Para R$ 60 ou mais: Enviamos uma camiseta personalizada + kit com 7 adesivos</li>
+                                    <li>Para R$ 120 ou mais: Envaimos uma camiseta + caneca personalizada + kit com 7 adesivos</li>
                             </p>
                             
                         </div>
@@ -266,12 +245,9 @@
                                 </div>
                                 <div class="col-xl-3 col-md-3">
                                     <div class="music_btn">
-                                        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                                            <input type="hidden" name="cmd" value="_s-xclick" />
-                                            <input type="hidden" name="hosted_button_id" value="489T8XKQ28CKU" />
-                                            <input type="image" src="https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-                                            <img alt="" border="0" src="https://www.paypal.com/pt_BR/i/scr/pixel.gif" width="1" height="1" />
-                                        </form>
+                                        <div class="music_btn" >
+                                            <a href="https://www.paypal.com/donate?token=Pszcf5kPKVK-yHc-hGzqo6rfQa_x8lhc8-CfvggnQNUU-k020c_Uje5VgvYTSCe1f483oxdxBaDSZUHI" class="boxed-btn" >Ver Dados</a>
+                                        </div>
                                     </div>
                                 </div>
                             @elsedesktop
@@ -282,15 +258,56 @@
                                             </div>
                                             <div class="audio_name">
                                                 <div class="name">
-                                                    <h4>PayPal</h4>
-                                                    <div>
-                                                        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                                                            <input type="hidden" name="cmd" value="_s-xclick" />
-                                                            <input type="hidden" name="hosted_button_id" value="489T8XKQ28CKU" />
-                                                            <input type="image" src="https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-                                                            <img alt="" border="0" src="https://www.paypal.com/pt_BR/i/scr/pixel.gif" width="1" height="1" />
-                                                        </form>
-                                                    </div>
+                                                    <h4>Paypal</h4>
+                                                    <a href="https://www.paypal.com/donate?token=Pszcf5kPKVK-yHc-hGzqo6rfQa_x8lhc8-CfvggnQNUU-k020c_Uje5VgvYTSCe1f483oxdxBaDSZUHI" class="genric-btn success-border" >Ver Dados</a>
+                                                </div>
+                                            </div>
+                                    </div>
+                                </div>
+                            @enddesktop
+                        </div>
+                    </div>
+    
+                </div>
+
+                <div class="row align-items-center justify-content-center mb-20">
+                    <div class="col-xl-10">
+                        <div class="row align-items-center">
+                            @desktop
+                                <div class="col-xl-9 col-md-9">
+                                    <div class="music_field">
+                                            <div class="thumb">
+                                                <img src="img/bank/qr_code_mp.png" alt="">
+                                            </div>
+                                            <div class="audio_name">
+                                                <div class="name">
+                                                    <h4>Mercado Pago</h4>
+                                                    <ol>
+                                                        <li>1 - Clique no botão ao lado;</li>
+                                                        <li>2 - Selecione uma das opções; </li>
+                                                        <li>3 - Você será direcionado para o app do Mercado Pago;</li>
+                                                    </ol>
+                                                </div>
+                                            </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-3 col-md-3">
+                                    <div class="music_btn" >
+                                        <div id="btn_verDados_MP">
+                                            <button class="boxed-btn" id="dados_MP" onclick="showDataMP()" >Ver Dados</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            @elsedesktop
+                                <div class="col-xl-9 col-md-9">
+                                    <div class="music_field">
+                                            <div class="thumb">
+                                                <img src="img/bank/qr_code_mp.png" alt="Transferência bancária Bancos CAIXA e ITAU">
+                                            </div>
+                                            <div class="audio_name">
+                                                <div class="name">
+                                                    <h4>Mercado Pago</h4>
+                                                    <button class="genric-btn success-border" id="dados_MP" onclick="showDataMP()" >Ver Dados</button>
                                                 </div>
                                             </div>
                                     </div>
@@ -339,7 +356,7 @@
                                             <div class="audio_name">
                                                 <div class="name">
                                                     <h4>Picpay</h4>
-                                                    <a class="genric-btn success-border" href="https://app.picpay.com/user/giovana.luiza.carneiro" class="boxed-btn">Ver Dados</a>
+                                                    <a class="genric-btn success-border" href="https://app.picpay.com/user/giovana.luiza.carneiro" >Ver Dados</a>
                                                 </div>
                                             </div>
                                 </div>
@@ -517,6 +534,16 @@
     </div>
     <!-- music_area end  -->
 
+    <div class="container" style="margin-top: 2%">
+        <div class="row align-items-center">
+            <div class="col-xl-12">
+                <a href="/about">
+                    <img src="img/banner/banner_about.png" style="width: 100%;height: auto;">
+                </a>
+            </div>
+        </div>   
+    </div>
+
     <div class="gallery_area" style="padding-bottom: 0px">
         <div class="container">
             <div class="row">
@@ -549,83 +576,109 @@
         </div>
     </div>
 
-    <!-- gallery -->
-    {{-- <div class="gallery_area">
-        <div class="container">
+    <div class="youtube_video_area" style="margin-top: 50px">
+        <div class="container-fluid p-0">
             <div class="row">
                 <div class="col-xl-12">
                     <div class="section_title text-center mb-65">
-                        <h3>Galeria</h3>
+                        <h3 id="contribuir">
+                            Últimos Vídeos
+                        </h3>
                     </div>
                 </div>
             </div>
-            <div class="row grid">
-                    <div class="col-xl-5 col-lg-5 grid-item cat1 col-md-6">
-                        <div class="single-gallery mb-30">
-                                <div class="portfolio-img">
-                                        <img src="img/gallery/1.png" alt="">
-                                </div>
-                                <div class="gallery_hover">
-                                    <a  class="popup-image"  href="img/gallery/1.png" class="hover_inner">
-                                        <i class="ti-plus"></i>
-                                    </a>
-                                </div>
+    
+            <div class="row no-gutters">
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="single_video">
+                        <div class="thumb">
+                            <img src="img/video/1.png" alt="">
                         </div>
-                    </div>
-
-                    <div class="col-xl-7 col-lg-7 grid-item cat3 cat4 col-md-6">
-                        <div class="single-gallery mb-30">
-                                <div class="portfolio-img">
-                                        <img src="img/gallery/2.png" alt="">
-                                </div>
-                                <div class="gallery_hover">
-                                        <a class="popup-image" href="img/gallery/2.png" class="hover_inner">
-                                            <i class="ti-plus"></i>
-                                        </a>
-                                </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-4 col-lg-6 grid-item cat2 col-md-6">
-                        <div class="single-gallery mb-30">
-                            <div class="portfolio-img">
-                                    <img src="img/gallery/5.png" alt="">
+                        <div class="hover_elements">
+                            <div class="video">
+                                <a class="popup-video" href="https://www.youtube.com/watch?v=OCSfqPZmqjk"> 
+                                    <i class="fa fa-play"></i>
+                                </a>     
                             </div>
-                            <div class="gallery_hover">
-                                    <a class="popup-image" href="img/gallery/5.png" class="hover_inner">
-                                        <i class="ti-plus"></i>
+    
+                            <div class="hover_inner">
+                                <span>Cover </span>
+                                <h3>
+                                    <a href="#">COMO NOSSOS PAIS 
                                     </a>
+                                </h3>
                             </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-xl-4 col-lg-6 grid-item cat2 col-md-6">
-                        <div class="single-gallery mb-30">
-                            <div class="portfolio-img">
-                                    <img src="img/gallery/4.png" alt="">
-                            </div>
-                            <div class="gallery_hover">
-                                    <a class="popup-image" href="img/gallery/4.png" class="hover_inner">
-                                        <i class="ti-plus"></i>
-                                    </a>
-                                </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-4 col-lg-6 grid-item cat4 col-md-6">
-                        <div class="single-gallery mb-30">
-                                <div class="portfolio-img">
-                                        <img src="img/gallery/3.png" alt="">
-                                </div>
-                                <div class="gallery_hover">
-                                        <a class="popup-image" href="img/gallery/3.png" class="hover_inner">
-                                            <i class="ti-plus"></i>
-                                        </a>
-                                </div>
                         </div>
                     </div>
                 </div>
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="single_video">
+                        <div class="thumb">
+                            <img src="img/video/2.png" alt="">
+                        </div>
+                        <div class="hover_elements">
+                            <div class="video">
+                                <a class="popup-video" href="https://www.youtube.com/watch?v=mbq-o0DbFww"> 
+                                    <i class="fa fa-play"></i>
+                                </a>
+                            </div>
+    
+                            <div class="hover_inner">
+                                <span>Cover </span>
+                                <h3>
+                                    <a href="#">
+                                        MEU JEITO DE AMAR 
+                                    </a>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="single_video">
+                        <div class="thumb">
+                            <img src="img/video/3.png" alt="">
+                        </div>
+                        <div class="hover_elements">
+                            <div class="video">
+                                    <a class="popup-video" href="https://www.youtube.com/watch?v=gYDlQf9_7Og"> 
+                                        <i class="fa fa-play"></i>
+                                    </a>
+                            </div>
+    
+                            <div class="hover_inner">
+                                <span>Cover </span>
+                                <h3><a href="#">PODE SE ACHEGAR </a></h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6">
+                    <div class="single_video">
+                        <div class="thumb">
+                            <img src="img/video/4.png" alt="">
+                        </div>
+                        <div class="hover_elements">
+                            <div class="video">
+                                <a class="popup-video" href="https://www.youtube.com/watch?v=D6YvJTooqCY"> 
+                                    <i class="fa fa-play"></i>
+                                </a>
+                            </div>
+    
+                            <div class="hover_inner">
+                                <span>Cover</span>
+                                <h3>
+                                    <a href="#">
+                                        EMOTION
+                                    </a>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-    </div> --}}
-    <!--/ gallery -->
+    </div>
+
+
   

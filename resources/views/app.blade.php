@@ -107,6 +107,9 @@
                                                 <a href="/repertory" href="index.html">Repertório</a>
                                             </li>
                                             <li>
+                                                <a href="/about">Sobre</a>
+                                            </li>
+                                            <li>
                                                 <a href="/contact">Contato</a>
                                             </li>
                                             <li >
@@ -304,7 +307,60 @@
                     dados_IC.style.display = "block";
                 }
                 
-            </script>
+                function showDataMP() {
+                    console.log('teste');
+                    swal("Qual valor da sua doação?", {
+                        buttons: {
+                            glavi_15: {
+                                text: "R$15",
+                                value: "glavi_15"
+                            },
+                            glavi_30: {
+                                text: "R$30",
+                                value: "glavi_30",
+                            },
+                            glavi_60: {
+                                text: "R$60",
+                                value: "glavi_60"
+                            },
+                            glavi_120: {
+                                text: "R$120",
+                                value: "glavi_120"
+                            },
+                            cancelar: true
+                        },
+                        })
+                        .then((value) => {
+                        switch (value) {
+                        
+                            case "glavi_15":
+                                window.open('https://mpago.la/1rJSkkt')
+                                swal("Maravilha!", "Você será redirecionado para pagina do Mercado Pago!", "success");
+                                break;      
+
+                            case "glavi_30":
+                                window.open('https://mpago.la/268exMr')
+                                swal("Maravilha!", "Você será redirecionado para pagina do Mercado Pago!", "success");
+                            break;
+
+                            case "glavi_60":
+                                window.open('https://mpago.la/1Pj4BnW')
+                                swal("Maravilha!", "Você será redirecionado para pagina do Mercado Pago!", "success");
+                            break;
+
+                            case  "glavi_120":
+                                window.open('https://mpago.la/2UcmYoJ')
+                                swal("Maravilha!", "Você será redirecionado para pagina do Mercado Pago!", "success");
+                            break;
+                            
+                            default:
+                                swal("Não se limite a valores, nós aceitamos qualquer valor por outras formas de pagamento. <3");
+                            
+                        }
+                    });
+                }
+
+        </script>
             {{-- botao flutuante whattsapp --}}
             <a href="https://api.whatsapp.com/send?phone=5541997020390." class="float-wpp" target="_blank">
                 <i class="fa fa-whatsapp my-float-wpp"></i>
