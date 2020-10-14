@@ -3,14 +3,14 @@
 
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-174961856-1"></script>
+    {{-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-174961856-1"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
     gtag('config', 'UA-174961856-1');
-    </script>
+    </script> --}}
 
 
     <meta charset="utf-8">
@@ -18,7 +18,11 @@
     {{-- <meta name="keywords" content="favicon, favicon generator, favorite icons, browser icon"> --}}
     
     <title>Glavieira</title>
-    {{-- <link rel="icon" type="image/x-icon" href="img/favicon.ico" /> --}}
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
 
     <meta name="description" content="Com influências que vão de Jazz a MPB, o Glavieira traz uma experiência única repleta de uma serena sinceridade">
     {{-- <meta name="google" content="nositelinkssearchbox" /> --}}
@@ -35,7 +39,7 @@
     {{-- <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico"> --}}
     
     <!-- Place favicon.ico in the root directory -->
-    <link rel="icon" href="{{ URL::asset('/img/icon.png') }}" type="image/x-icon"/>
+    
     <!-- CSS here -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
@@ -91,7 +95,7 @@
                         <div class="row align-items-center">
                             <div class="col-xl-3 col-lg-2">
                                 <div class="logo">
-                                    <a href="index.html">
+                                    <a href="/">
                                         <img src="img/logo.png" style="width: 160px" alt="">
                                     </a>
                                 </div>
@@ -101,10 +105,10 @@
                                     <nav>
                                         <ul id="navigation">
                                             <li>
-                                                <a href="/" class="active" href="index.html">Início</a>
+                                                <a href="/" class="active" >Início</a>
                                             </li>
                                             <li>
-                                                <a href="/repertory" href="index.html">Repertório</a>
+                                                <a href="/repertory" >Repertório</a>
                                             </li>
                                             <li>
                                                 <a href="/about">Sobre</a>
