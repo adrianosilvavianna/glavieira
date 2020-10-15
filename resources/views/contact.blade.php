@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="bradcam_text text-center">
-                        <h3>contato</h3>
+                        <h3>Contato</h3>
                     </div>
                 </div>
             </div>

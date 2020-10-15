@@ -246,7 +246,7 @@
                                 <div class="col-xl-3 col-md-3">
                                     <div class="music_btn">
                                         <div class="music_btn" >
-                                            <a href="https://www.paypal.com/donate?token=Pszcf5kPKVK-yHc-hGzqo6rfQa_x8lhc8-CfvggnQNUU-k020c_Uje5VgvYTSCe1f483oxdxBaDSZUHI" class="boxed-btn" >Ver Dados</a>
+                                            <a href="https://www.paypal.com/donate?hosted_button_id=489T8XKQ28CKU" class="boxed-btn" >Ver Dados</a>
                                         </div>
                                     </div>
                                 </div>
@@ -259,7 +259,7 @@
                                             <div class="audio_name">
                                                 <div class="name">
                                                     <h4>Paypal</h4>
-                                                    <a href="https://www.paypal.com/donate?token=Pszcf5kPKVK-yHc-hGzqo6rfQa_x8lhc8-CfvggnQNUU-k020c_Uje5VgvYTSCe1f483oxdxBaDSZUHI" class="genric-btn success-border" >Ver Dados</a>
+                                                    <a href="https://www.paypal.com/donate?hosted_button_id=489T8XKQ28CKU" class="genric-btn success-border" >Ver Dados</a>
                                                 </div>
                                             </div>
                                     </div>
