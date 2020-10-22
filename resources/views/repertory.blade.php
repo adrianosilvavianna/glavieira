@@ -35,6 +35,369 @@
         <div class="row">
 
             <div class="card" style="width: 18rem;margin:3% auto">
+                <a href="https://www.instagram.com/p/CGN2TX7nwVE/?utm_source=ig_web_button_share_sheet">
+                    <img src="img/repertory/live_brasil.png" class="card-img-top" alt="No nosso novo cenário tocamos as musicas do nosso repertório.">
+                    <div class="card-body">
+                    <h5 class="card-title">Live 90`s</h5>
+                    <p class="card-text">
+                        Aqueles clássicos dos anos 90 que todo mundo conhece e canta até hoje.
+                    </p>
+                </a>
+                </div>
+                <ul class="list-group list-group-flush">
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CGD8uKnjfvW/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Toxic -
+                            <small>
+                                Britney Spears
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CGLnKbkHeLW/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Bye Bye Bye -
+                            <small>
+                                N`SYNC
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CDfPrlUh3EB/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Não Vou Não -
+                            <small>
+                                Fat Family
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                            Tell Me Why - 
+                        <small>
+                            Backstreet Boys
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Say My Name - 
+                        <small>
+                            Destiny's Child
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            No Scrubs - 
+                        <small>
+                            TLC
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Killing Me Softly  - 
+                        <small>
+                            Lauryn Hill
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Cheia De Manias
+                        <small>
+                            Raça Negra
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Mulheres
+                        <small>
+                            Martinho Da Vila
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Jeito Sexy
+                        <small>
+                            Fat Family
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Coaby City
+                        <small>
+                            Negritude Junior
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Xibom Bombom
+                        <small>
+                            As Meninas
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Pelados Em Santos
+                        <small>
+                            Mamonas Assassinas
+                        </small>
+                    </li>
+
+
+                </ul>
+                <div class="card-body">
+                    <a href="https://www.instagram.com/p/CGN2TX7nwVE/?utm_source=ig_web_button_share_sheet" class="card-link genric-btn warning circle" >
+                        Live 90`s
+                    </a>
+                </div>
+            </div>
+
+            <div class="card" style="width: 18rem;margin:3% auto">
+                <a href="https://www.instagram.com/tv/CF8OTNdHA9V/?utm_source=ig_web_button_share_sheet">
+                    <img src="img/repertory/live_brasil.png" class="card-img-top" alt="No nosso novo cenário tocamos as musicas do nosso repertório.">
+                    <div class="card-body">
+                    <h5 class="card-title">Live Brasil</h5>
+                    <p class="card-text">
+                        Hinos do Brasil, aqueles que ninguém esquece.
+                    </p>
+                </a>
+                </div>
+                <ul class="list-group list-group-flush">
+
+                    <li class="list-group-item">
+                        <a href="https://youtu.be/Eut10wIK91I"  target="_blanck">
+                            <i class="fa fa-youtube-play"></i>
+                                Saudosa Maloca -
+                            <small>
+                                Adorinan Barbosa
+                            </small>
+                        </a>
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CF0mBdUnYlQ/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Deixa Acontecer -
+                            <small>
+                                Grupo Revelação
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CFhD-msHQKo/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Preta Pretinha -
+                            <small>
+                                Novos Baianos
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CE-fftflh5Q/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Negro Gato -
+                            <small>
+                                Roberto Carlos
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                            Ê Baiana - 
+                        <small>
+                            Clara Nunes
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            O Mar Serenou - 
+                        <small>
+                            Clara Nunes
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Mama Africa - 
+                        <small>
+                            Chico César
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            A Menina Dança - 
+                        <small>
+                            Novos Baianos
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Swing da cor - 
+                        <small>
+                            Daniela Mercury
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Ta Perdoado - 
+                        <small>
+                            Maria Rita
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Mais Que Nada - 
+                        <small>
+                            Jorge Ben 
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Colombina - 
+                        <small>
+                            Ed Motta
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                        Tiro ao Álvaro -
+                        <small>
+                            Adoniran Barboza
+                        </small>
+                    </li>
+
+                </ul>
+                <div class="card-body">
+                    <a href="https://www.instagram.com/tv/CF8OTNdHA9V/?utm_source=ig_web_button_share_sheet" class="card-link genric-btn warning circle" >
+                        Live Brasil
+                    </a>
+                </div>
+            </div>
+
+            <div class="card" style="width: 18rem;margin:3% auto">
+                <a href="https://www.instagram.com/tv/CFYLzZCHRkG/?utm_source=ig_web_button_share_sheet">
+                    <img src="img/repertory/love_hits.png" class="card-img-top" alt="Aquelas mais brabas pra ouvir com o crush.">
+                    <div class="card-body">
+                    <h5 class="card-title">Love Hits</h5>
+                    <p class="card-text">
+                        Aquelas mais brabas pra ouvir com o crush.
+                    </p>
+                </a>
+                </div>
+                <ul class="list-group list-group-flush">
+
+                    <li class="list-group-item">
+                        <a href="https://youtu.be/oR-vGppypGs"  target="_blanck">
+                            <i class="fa fa-youtube-play"></i>
+                                Isn`t she lovely -
+                            <small>
+                                Stevie Wonder
+                            </small>
+                        </a>
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://youtu.be/u1TH39TvU48"  target="_blanck">
+                            <i class="fa fa-youtube-play"></i>
+                                Is This Love -
+                            <small>
+                                Bob Marley
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CFTL_8Mnc6N/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                I Put a Spell on You -
+                            <small>
+                                Nina Simone
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CCmqPALBkoK/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Love On The Brain -
+                            <small>
+                                Rihanna
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/tv/CFQUHdbnYYH/?utm_source=ig_web_copy_link"  target="_blanck">
+                            <i class="fa fa-instagram"></i>
+                                Flutua -
+                            <small>
+                                Liniker
+                            </small>
+                        </a>  
+                    </li>
+
+                    <li class="list-group-item">
+                            Calmô - 
+                        <small>
+                            Liniker
+                        </small>
+                    </li>
+                    
+                    <li class="list-group-item">
+                            Gostava Tanto De Você - 
+                        <small>
+                            Tim Maia
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Sexy Love - 
+                        <small>
+                            Ne-yo
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Baby You Make Me Crazy - 
+                        <small>
+                            Sam Smith
+                        </small>
+                    </li>
+                    
+                    <li class="list-group-item">
+                            Say You'll Be There - 
+                        <small>
+                            Spice Girls
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Jerome - 
+                        <small>
+                            Lizzo
+                        </small>
+                    </li>
+
+                    <li class="list-group-item">
+                            Luz Dos Olhos Teus - 
+                        <small>
+                            VInicius de Morais
+                        </small>
+                    </li>
+
+                </ul>
+                <div class="card-body">
+                    <a href="https://www.instagram.com/tv/CFYLzZCHRkG/?utm_source=ig_web_button_share_sheet" class="card-link genric-btn warning circle" >
+                        Love Hits
+                    </a>
+                </div>
+            </div>
+
+            <div class="card" style="width: 18rem;margin:3% auto">
                 <a href="https://www.instagram.com/tv/CE0I2egF0tt/?utm_source=ig_web_copy_link">
                     <img src="img/repertory/live_dani.png" class="card-img-top" alt="No nosso novo cenário tocamos as musicas do nosso repertório.">
                     <div class="card-body">

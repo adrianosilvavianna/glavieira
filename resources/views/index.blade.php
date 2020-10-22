@@ -207,19 +207,20 @@
                             </h3>
                             
                             <p class="sample-text" style="margin: 30px">
-                                Faça uma contribuição e você ajuda a dar continuidade ao nosso projeto e nós enviamos um presente especial pra você. <br>
+                                Faça a sua contribuição e de brinde receba um presente especial do Glavieira!!!! <br>
+                                
+                                Envie seu comprovante para nós pelo Whatsapp!! Click no <i class="fa fa-whatsapp "></i>.<br>
                                 Recompensas: <br>
                                 <ul>
                                     <li>Para R$ 15 ou mais: Enviamos um kit com 7 adesivos</li>
                                     <li>Para R$ 30 ou mais: Enviamos uma caneca personalizada</li>
                                     <li>Para R$ 60 ou mais: Enviamos uma camiseta personalizada + kit com 7 adesivos</li>
-                                    <li>Para R$ 120 ou mais: Envaimos uma camiseta + caneca personalizada + kit com 7 adesivos</li>
+                                    <li>Para R$ 120 ou mais: Enviamos uma camiseta + caneca personalizada + kit com 7 adesivos</li>
                             </p>
                             
                         </div>
                     </div>
                 </div>
-
 
                 <div class="row align-items-center justify-content-center mb-20">
                     <div class="col-xl-10">

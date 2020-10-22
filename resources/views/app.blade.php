@@ -289,9 +289,9 @@
     <script src="js/main.js"></script>
     
 		<script>
-            console.log("Hello");
-            setTimeout(() => {  
-                console.log("CAIUUUU");
+            // console.log("Hello");
+            // setTimeout(() => {  
+                // console.log("CAIUUUU");
                 // swal({
                 //     title: "Olá :)",
                 //     text: "Se você já fez sua doação, mande seu comprovante pra gente pelo whatsapp ou instagram. Se você ainda não fez, saiba que é por uma boa causa, contribua com qualquer valor que tocar no seu <3",
