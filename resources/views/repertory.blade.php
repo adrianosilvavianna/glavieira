@@ -2026,6 +2026,16 @@
     </div>
 </div>
 
+<div class="container" style="margin: 0px auto 7% auto;">
+    <div class="row align-items-center">
+        <div class="col-xl-12">
+            <a href="/about">
+                <img src="img/banner/banner_about.png" style="width: 100%;height: auto;">
+            </a>
+        </div>
+    </div>   
+</div>
+
 <div class="youtube_video_area">
     <div class="container-fluid p-0">
         <div class="row">
