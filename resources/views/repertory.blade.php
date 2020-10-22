@@ -36,7 +36,7 @@
 
             <div class="card" style="width: 18rem;margin:3% auto">
                 <a href="https://www.instagram.com/p/CGN2TX7nwVE/?utm_source=ig_web_button_share_sheet">
-                    <img src="img/repertory/live_brasil.png" class="card-img-top" alt="No nosso novo cenário tocamos as musicas do nosso repertório.">
+                    <img src="img/repertory/live_90.png" class="card-img-top" alt="No nosso novo cenário tocamos as musicas do nosso repertório.">
                     <div class="card-body">
                     <h5 class="card-title">Live 90`s</h5>
                     <p class="card-text">
