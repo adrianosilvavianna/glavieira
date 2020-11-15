@@ -40,22 +40,22 @@
                         <div class="col-xl-9 col-md-9">
                             <div class="music_field">
                                     <div class="thumb">
-                                            <img src="img/music_man/1.png" alt="">
+                                            <img src="img/music_man/2.png" alt="">
                                         </div>
                                         <div class="audio_name">
                                             <div class="name">
-                                                <h4>Sintonia</h4>
-                                                <p>3 Agosto, 2020</p>
+                                                <h4>Trovejar</h4>
+                                                <p>13 Novembro, 2020</p>
                                             </div>
                                                 <audio preload="auto" controls>
-                                                    <source src="songs/sintonia.mp3">
+                                                    <source src="songs/trovejar.mp3">
                                                 </audio>
                                         </div>
                             </div>
                         </div>
                         <div class="col-xl-3 col-md-3">
                             <div class="music_btn">
-                                <a target="_black" href="https://sl.onerpm.com/5209095522?_ga=2.39774051.1164708396.1597097860-770625695.1590939926" class="genric-btn warning radius">Salve na sua Playlist</a>
+                                <a href="/" class="genric-btn warning radius">Embreve nas plataformas de Stream</a>
                             </div>
                         </div>
                     </div>
