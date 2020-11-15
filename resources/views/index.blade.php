@@ -30,7 +30,7 @@
     <!-- slider_area_end -->
     @enddesktop
 
-    @desktop
+    
     <!-- music_area  -->
     <div class="music_area">
         <div class="container">
@@ -65,7 +65,7 @@
         </div>
     </div>
     <!-- music_area end  -->
-    @enddesktop
+    
 
     <div class="gallery_area">
         <div class="container">
