@@ -597,7 +597,7 @@
                         </div>
                         <div class="hover_elements">
                             <div class="video">
-                                <a class="popup-video" href="https://www.youtube.com/watch?v=OCSfqPZmqjk"> 
+                                <a class="popup-video" href="https://youtu.be/-MyM0iexSqY"> 
                                     <i class="fa fa-play"></i>
                                 </a>     
                             </div>
@@ -605,7 +605,8 @@
                             <div class="hover_inner">
                                 <span>Cover </span>
                                 <h3>
-                                    <a href="#">COMO NOSSOS PAIS 
+                                    <a href="#">
+                                        Toxic
                                     </a>
                                 </h3>
                             </div>
@@ -642,14 +643,18 @@
                         </div>
                         <div class="hover_elements">
                             <div class="video">
-                                    <a class="popup-video" href="https://www.youtube.com/watch?v=gYDlQf9_7Og"> 
+                                    <a class="popup-video" href="https://youtu.be/YYf-2uLU_dE"> 
                                         <i class="fa fa-play"></i>
                                     </a>
                             </div>
     
                             <div class="hover_inner">
                                 <span>Cover </span>
-                                <h3><a href="#">PODE SE ACHEGAR </a></h3>
+                                <h3>
+                                    <a href="#">
+                                        EU E VOCÊ SEMPRE
+                                    </a>
+                                </h3>
                             </div>
                         </div>
                     </div>
@@ -661,7 +666,7 @@
                         </div>
                         <div class="hover_elements">
                             <div class="video">
-                                <a class="popup-video" href="https://www.youtube.com/watch?v=D6YvJTooqCY"> 
+                                <a class="popup-video" href="https://youtu.be/LD4InHXQ2G4"> 
                                     <i class="fa fa-play"></i>
                                 </a>
                             </div>
@@ -670,7 +675,7 @@
                                 <span>Cover</span>
                                 <h3>
                                     <a href="#">
-                                        EMOTION
+                                        PUT YOUR RECORDS ON
                                     </a>
                                 </h3>
                             </div>
